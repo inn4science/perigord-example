@@ -1,0 +1,8 @@
+project: trusted_market
+license: Apache 2.0
+
+networks:
+    dev:
+        url: HTTP://127.0.0.1:7545
+        mnemonic: candy maple cake sugar pudding cream honey rich smooth crumble sweet treat
+        num_accounts: 10
