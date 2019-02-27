@@ -2,11 +2,11 @@
 package main
 
 import (
-//	"context"
+	//	"context"
 
-//	"gitlab.com/go-truffle/enhanced-perigord/migration"
+	//	"gitlab.com/go-truffle/enhanced-perigord/migration"
 
-	_ "trusted_market/migrations"
+	_ "gitlab.com/go-truffle/perigord-contract-example/migrations"
 )
 
 func main() {

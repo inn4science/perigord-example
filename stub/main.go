@@ -3,7 +3,7 @@
 package main
 
 import (
-	_ "trusted_market/migrations"
+	_ "gitlab.com/go-truffle/perigord-contract-example/migrations"
 	"gitlab.com/go-truffle/enhanced-perigord/stub"
 )
 

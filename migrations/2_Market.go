@@ -6,12 +6,10 @@ import (
 	"github.com/ethereum/go-ethereum/accounts/abi/bind"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/types"
-
 	"gitlab.com/go-truffle/enhanced-perigord/contract"
 	"gitlab.com/go-truffle/enhanced-perigord/migration"
 	"gitlab.com/go-truffle/enhanced-perigord/network"
-
-	"trusted_market/bindings"
+	"gitlab.com/go-truffle/perigord-contract-example/bindings"
 )
 
 type MarketDeployer struct{}
