@@ -4,9 +4,9 @@ package main
 import (
 	//	"context"
 
-	//	"gitlab.com/go-truffle/enhanced-perigord/migration"
+	//	"github.com/inn4science/perigord/migration"
 
-	_ "gitlab.com/go-truffle/perigord-contract-example/migrations"
+	_ "github.com/inn4science/perigord-example/migrations"
 )
 
 func main() {

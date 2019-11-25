@@ -3,8 +3,8 @@ package main
 import (
 	"testing"
 
-	_ "gitlab.com/go-truffle/perigord-contract-example/migrations"
-	_ "gitlab.com/go-truffle/perigord-contract-example/tests"
+	_ "github.com/inn4science/perigord-example/migrations"
+	_ "github.com/inn4science/perigord-example/tests"
 	. "gopkg.in/check.v1"
 )
 

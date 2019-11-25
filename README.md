@@ -4,7 +4,7 @@ The contract Market is an example of an owned contract that cann accept ETH from
 
 ##Running tests
 
-Please, follow [Enhanced Perigord](https://gitlab.com/go-truffle/enhanced-perigord) installation and running instructions.
+Please, follow [Enhanced Perigord](https://github.com/inn4science/perigord) installation and running instructions.
 
 Clone this project to src/ folder in your GOPATH.
 

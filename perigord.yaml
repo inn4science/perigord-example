@@ -1,4 +1,4 @@
-project: gitlab.com/go-truffle/perigord-contract-example
+project: github.com/inn4science/perigord-example
 license: Apache 2.0
 
 networks:

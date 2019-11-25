@@ -3,8 +3,8 @@
 package main
 
 import (
-	_ "gitlab.com/go-truffle/perigord-contract-example/migrations"
-	"gitlab.com/go-truffle/enhanced-perigord/stub"
+	_ "github.com/inn4science/perigord-example/migrations"
+	"github.com/inn4science/perigord/stub"
 )
 
 func main() {
